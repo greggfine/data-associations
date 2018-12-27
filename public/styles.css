@@ -1,0 +1,13 @@
+#posts-container {
+    border: 10px ridge skyblue;
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
+
+#user-container {
+    border: 10px dotted hotpink;
+    width: 30%;
+    margin: 10px auto;
+    text-align: center;
+}
